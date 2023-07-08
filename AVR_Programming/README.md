@@ -1,3 +1,9 @@
+# AVR Programming
+
+Arduino IDE를 사용해서 간단하게 AVR Programming을 실습했음<br>
+
+<br>
+
 ## ISR_Timer
 
 Atmega328/p의 clock cycle을 64분주하고 적절한 TOP을 설정한 뒤, 7 segment를 연결하여 타이머를 구현<br>
